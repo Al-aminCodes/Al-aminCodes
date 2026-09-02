@@ -1,4 +1,7 @@
 
+
+<img width="3780" height="1890" alt="Professional Digital Banner Design" src="https://github.com/user-attachments/assets/2825fa89-adf3-4531-bbc6-a550c7e17bab" />
+
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate full Stack</h3>
 
