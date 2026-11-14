@@ -7,7 +7,13 @@
 
 - 🔭 I’m currently working on [React, JavaScript, Tailwind](for frontend development)
 
-- 🌱 I’m currently learning **React**
+-### 🚀 What I'm Currently Working On
+
+- Building full-stack applications using Next.js, TypeScript, and Express.js.
+- Working on **HireLoop**, a job portal application with recruiter and job-seeker roles.
+- Implementing authentication and role-based access control using Better Auth.
+- Integrating MongoDB and REST APIs.
+- Learning advanced React concepts and improving my problem-solving skills.
 
 - using **Node.js**
 
