@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate full Stack</h3>
 
-- 🔭 I’m currently working on [React, JavaScript, Tailwind](for frontend development)
 
 -### 🚀 What I'm Currently Working On
 
